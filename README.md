@@ -32,6 +32,8 @@ This repository hosts a static `index.html` file deployable directly via GitHub 
 
 ---
 
+<div align="center">
+  
 ## 🚀 Deployment
 
 To deploy this project online:
@@ -42,7 +44,7 @@ Clone the repository:
     git clone https://github.com/kongali1720/kongBANK.git
     cd kongBANK
    
-
+</div>
 
 ## 📄 License
 
